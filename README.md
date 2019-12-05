@@ -9,4 +9,4 @@ Aktuell bestätigt sind folgende Krankenkassen:
 
 -AOK Sachsen-Anhalt
 
-Auf folgender Website sind weitere Krankenkasse aufgelistet leider konnten keine bis auf die oben genanten bestätigt werden. https://buggisch.wordpress.com/2015/04/08/homoeopathie-freie-krankenkasse-gesucht/
+Auf folgender Website sind weitere Krankenkasse aufgelistet leider konnten keine bis auf die oben genannten  bestätigt werden. https://buggisch.wordpress.com/2015/04/08/homoeopathie-freie-krankenkasse-gesucht/
