@@ -49,11 +49,9 @@ Sachsen-Anhalt: <br/>
 -AOK Sachsen-Anhalt [1][2] <br/>
 <br/>
 Schleswig-Holstein: <br/>
--AOK Nordwest [2] <br/>
 -IKK Nord [2] <br/>
 <br/>
 Westfalen-Lippe: <br/>
--AOK Nordwest [2]  <br/>
 -Siemag BKK [2] <br/>
 <br/>
 <br/>
@@ -94,6 +92,9 @@ Bremen:<br/>
 Hamburg: <br/>
 -AOK Rheinland/Hamburg  [2][9] <br/>
 <br/>
+Mecklenburg-Vorpommern: <br/>
+-AOK Nordost (6)  [2]<br/>
+<br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
 <br/>
@@ -103,10 +104,10 @@ Nordrhein: <br/>
  <br/>
  Westfalen-Lippe: <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
+-AOK Nordwest [2] (7) <br/>
  <br/>
-Mecklenburg-Vorpommern: <br/>
--AOK Nordost (6)  [2]<br/>
-
+Schleswig-Holstein: <br/>
+-AOK Nordwest [2](7) <br/>
 <br/>
 <br/>
 
@@ -116,6 +117,7 @@ Mecklenburg-Vorpommern: <br/>
 (4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. <br/>
 (5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]<br/>
 (6) Homoeopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
+(7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 <br/>
 <br/>
 Quellen:<br/>
@@ -128,4 +130,5 @@ Quellen:<br/>
 [7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/<br/>
 [8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf<br/>
 [9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
+[10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/
 
