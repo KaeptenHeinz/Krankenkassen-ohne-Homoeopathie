@@ -94,6 +94,9 @@ Berlin:<br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
 -BKK Melitta Plus (2) [2][6] <br/>
 <br/>
+Bremen:<br/>
+-BKK Melitta Plus [2] <br/>
+ <br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus (2) [2] <br/>
 <br/>
