@@ -24,7 +24,7 @@ Bremen:<br/>
 -IKK Nord [2] <br/>
 <br/>
 Hamburg: <br/>
--AOK Rheinland/Hamburg  [2] <br/>
+-AOK Rheinland/Hamburg  [2][9] <br/>
 -IKK Nord [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
@@ -38,7 +38,7 @@ Niedersachsen: <br/>
 -IKK Nord [2] <br/>
 <br/>
 Nordrhein: <br/>
--AOK Rheinland/Hamburg  [2] <br/>
+-AOK Rheinland/Hamburg  [2][9] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Rheinland-Pfalz: <br/>
@@ -65,12 +65,6 @@ Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka 
 Bundesweit: <br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
-<br/>
-Hamburg: <br/>
--AOK Rheinland/Hamburg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel) <br/>
-<br/>
-Nordrhein: <br/>
--AOK Rheinland/Hamburg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel)<br/>
 <br/>
 Bayern:<br/>
 -BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
@@ -125,9 +119,10 @@ Quellen:<br/>
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
 [3]https://krankenkassen.focus.de/kasse/333/Debeka+BKK <br/>
-[4]https://www.kkh.de/leistungen/alternativmedizin/heilpraktikerbehandlung
-[5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html
-[6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ 
-[7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/
-[8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf
+[4]https://www.kkh.de/leistungen/alternativmedizin/heilpraktikerbehandlung<br/>
+[5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html<br/>
+[6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ <br/>
+[7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/<br/>
+[8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf<br/>
+[9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
 
