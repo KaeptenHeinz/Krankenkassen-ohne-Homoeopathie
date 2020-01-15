@@ -86,7 +86,8 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
-#### Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an:
+
+####   Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an:
 
 
 <br/>
