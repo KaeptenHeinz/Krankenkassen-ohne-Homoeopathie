@@ -74,7 +74,7 @@ Folgende Krankenkassen bieten nur sehr eingeschränkte homöopathische Leistunge
 <br/>
 Alle Bundesländer<br/>
 -KKH [2] (1) <br/>
--DAK-Gesundheit [2] (Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5])   <br/>
+-DAK-Gesundheit [2] (5)   <br/>
 <br/>
 Baden-Württenberg: <br/>
 -BKK Melitta Plus (2) [2][6]<br/>
@@ -112,7 +112,7 @@ Mecklenburg-Vorpommern: <br/>
 (2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. 
 (3) Kinder und Schwangere  können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In aussnahme Fällen ist die übernahme von Homöopathischen Mitteln vom Arzt möglich[7].
 (4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. 
-
+(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]
 <br/>
 <br/>
 Quellen:<br/>
