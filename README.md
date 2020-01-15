@@ -3,7 +3,7 @@ Hier stehen die Krankenkassen die keine Homöopathie anbieten <br/>
 
 Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten, wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
 
-### Aktuell bestätigt sind folgende Krankenkassen:<br/>
+#### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
 -Debeka BKK  [1][3]  <br/>
@@ -53,7 +53,7 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
-### Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
+####  Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
@@ -86,7 +86,7 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
-### Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an: <br/>
+####   Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an:
 <br/>
 Alle Bundesländer<br/>
 -KKH [2] (1) <br/>
@@ -131,7 +131,7 @@ Schleswig-Holstein: <br/>
 <br/>
 <br/>
 
-### Fußnoten 
+####   Fußnoten 
 
 (1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
@@ -143,7 +143,7 @@ Schleswig-Holstein: <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
 
 <br/>
-### Quellen:<br/>
+####  Quellen: 
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
 [3]https://krankenkassen.focus.de/kasse/333/Debeka+BKK <br/>
