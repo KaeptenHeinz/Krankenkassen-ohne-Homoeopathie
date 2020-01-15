@@ -35,17 +35,17 @@ Hamburg:
 -IKK Nord [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
-Hessen:
+Hessen:<br/>
 -Siemag BKK [2] <br/>
  <br/>
-Mecklenburg-Vorpommern:
+Mecklenburg-Vorpommern:<br/>
 -IKK Nord [2] <br/>
 <br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus [2] <br/>
 -IKK Nord [2] <br/>
 <br/>
-Nordrhein: 
+Nordrhein: <br/>
 -AOK Rheinland/Hampurg [2] <br/>
 -BKK Melitta Plus [2] <br/>
 -Siemag BKK [2] <br/>
