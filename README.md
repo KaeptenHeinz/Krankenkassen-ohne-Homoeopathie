@@ -109,10 +109,10 @@ Mecklenburg-Vorpommern: <br/>
 <br/>
 
 (1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4] <br/>
-(2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. 
-(3) Kinder und Schwangere  können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In aussnahme Fällen ist die übernahme von Homöopathischen Mitteln vom Arzt möglich[7].
-(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. 
-(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]
+(2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
+(3) Kinder und Schwangere  können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In aussnahme Fällen ist die übernahme von Homöopathischen Mitteln vom Arzt möglich[7]. <br/>
+(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. <br/>
+(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]<br/>
 <br/>
 <br/>
 Quellen:<br/>
