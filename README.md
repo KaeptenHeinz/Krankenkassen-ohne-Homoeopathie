@@ -10,6 +10,7 @@ Alle Bundesländer:
 -DAK-Gesundheit [2]
 -KKH [2]
 
+
 Baden-Württenberg
 -BKK Melitta Plus [2]
 
@@ -17,8 +18,10 @@ Bayern:
 -AOK Bayern [2]
 -BKK Akzo Nobel Bayern [2]
 
+
 Berlin:
 -BKK Melitta Plus [2]
+
 
 Bremen:
 -BKK Melitta Plus [2]
@@ -31,51 +34,69 @@ Hamburg:
 Mecklenburg-Vorpommern:
 -IKK Nord [2]
 
+
 Niedersachsen: 
 -BKK Melitta Plus [2]
 -IKK Nord [2]
+
 
 Nordrhein: 
 -AOK Rheinland/Hampurg [2]
 -BKK Melitta Plus [2]
 
+
 Sachsen-Anhalt:
 -AOK Sachsen-Anhalt [1][2]
+
 
 Schleswig-Holstein:
 -AOK Nordwest [2] 
 -IKK Nord [2]
 
+
 Westfalen-Lippe:
 -AOK Nordwest [2] 
 -BKK Melitta Plus [2]
 
+
+
 Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Betrug) Behandlung/Mittel an. 
 (wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer drauf eingegangen)  
+
+
 
 Bundesweit 
 -KKH [2]  (Keine "Alternativ Medizinische" Behandlung/Mittel)
 
+
 Hamburg: 
 -AOK Rheinland/Hampurg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel)
 
+
 Nordrhein: 
 -AOK Rheinland/Hampurg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel)
+
 
 Bayern:
 -BKK Akzo Nobel Bayern [2] (90 Euro bei Osteopathie Behandlung pro Jahr) 
 
 
+
 Folgende Krankenkassen bieten nur sehr eingeschränkte Homöopathie Leistungen an:
+
 
 Brandenburg: 
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2]
 
+
 Berlin:
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2]
 
+
 Mecklenburg-Vorpommern:
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2]
+
+
 
 
 Offizielle Quellen:
