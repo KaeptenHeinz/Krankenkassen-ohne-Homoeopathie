@@ -24,7 +24,6 @@ Bremen:<br/>
 -IKK Nord [2] <br/>
 <br/>
 Hamburg: <br/>
--AOK Rheinland/Hamburg  [2][9] <br/>
 -IKK Nord [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
@@ -38,7 +37,6 @@ Niedersachsen: <br/>
 -IKK Nord [2] <br/>
 <br/>
 Nordrhein: <br/>
--AOK Rheinland/Hamburg  [2][9] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Rheinland-Pfalz: <br/>
@@ -92,11 +90,15 @@ Brandenburg: <br/>
 <br/>
 Bremen:<br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
- <br/>
+<br/>
+Hamburg: <br/>
+-AOK Rheinland/Hamburg  [2][9] <br/>
+<br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
 <br/>
 Nordrhein: <br/>
+-AOK Rheinland/Hamburg  [2][9] <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
  <br/>
  Westfalen-Lippe: <br/>
