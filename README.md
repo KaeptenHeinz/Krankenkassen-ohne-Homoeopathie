@@ -132,15 +132,15 @@ Schleswig-Holstein: <br/>
 <br/>
 <br/>
 
-(1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4] <br/>
-(2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
-(3) Kinder und Schwangere  können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In aussnahme Fällen ist die übernahme von Homöopathischen Mitteln vom Arzt möglich[7]. <br/>
-(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. <br/>
-(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]<br/>
-(6) Homoeopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
+(1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
+(2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
+(3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
+(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden [8]. <br/>
+(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung bis 100 Euro [5] <br/>
+(6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
-<br/>
+
 <br/>
 Quellen:<br/>
 [1]Telefonisch Nachgefragt <br/>
