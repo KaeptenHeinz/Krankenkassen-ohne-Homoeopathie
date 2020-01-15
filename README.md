@@ -53,8 +53,7 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
-### Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an. 
-### (wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
+### Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
