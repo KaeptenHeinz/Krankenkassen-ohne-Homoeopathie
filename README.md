@@ -128,7 +128,7 @@ Nordrhein: <br/>
 -AOK Nordwest [2] (7) <br/>
  <br/>
 Schleswig-Holstein: <br/>
--AOK Nordwest [2](7) <br/>
+-AOK Nordwest [2]  (7) <br/>
 <br/>
 <br/>
 
