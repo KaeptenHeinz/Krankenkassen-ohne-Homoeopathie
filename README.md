@@ -87,6 +87,8 @@ Westfalen-Lippe: <br/>
 <br/>
 <br/>
 #### Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an:
+
+
 <br/>
 Alle Bundesländer<br/>
 -KKH [2] (1) <br/>
@@ -132,6 +134,7 @@ Schleswig-Holstein: <br/>
 <br/>
 
 ####   Fußnoten 
+
 <br/>
 (1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
@@ -143,7 +146,9 @@ Schleswig-Holstein: <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
 
 <br/>
-####  Quellen: 
+
+####   Quellen: 
+
 <br/>
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
