@@ -61,30 +61,30 @@ Bundesweit: <br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
 Baden-Württenberg: <br/>
--Siemag BKK [2] (8)<br/>
+-Siemag BKK [2]  (8) <br/>
  <br/>
 Bayern:<br/>
 -BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
--Siemag BKK [2] (8) <br/>
+-Siemag BKK [2]  (8) <br/>
 Brandenburg:<br/> 
 -Siemag BKK [2] (8) <br/>
  <br/>
 Hamburg: <br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
  <br/>
 Hessen:<br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
 Nordrhein: <br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
 Rheinland-Pfalz: <br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
  <br/>
  Sachsen: <br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
 Westfalen-Lippe: <br/>
--Siemag BKK [2](8) <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
 Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an: <br/>
