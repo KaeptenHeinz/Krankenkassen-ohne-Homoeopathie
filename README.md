@@ -105,7 +105,7 @@ Mecklenburg-Vorpommern: <br/>
 <br/>
 <br/>
 
-(1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4]
+(1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. 
 
 Quellen:<br/>
