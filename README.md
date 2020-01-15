@@ -62,11 +62,34 @@ Bundesweit: <br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
+Baden-Württenberg: <br/>
+-Siemag BKK [2] (8)<br/>
+ <br/>
 Bayern:<br/>
 -BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
+-Siemag BKK [2] (8) <br/>
+Brandenburg:<br/> 
+-Siemag BKK [2] (8) <br/>
+ <br/>
+Hamburg: <br/>
+-Siemag BKK [2](8) <br/>
+ <br/>
+Hessen:<br/>
+-Siemag BKK [2](8) <br/>
+Nordrhein: <br/>
+-Siemag BKK [2](8) <br/>
+<br/>
+Rheinland-Pfalz: <br/>
+-Siemag BKK [2](8) <br/>
+ <br/>
+ Sachsen: <br/>
+-Siemag BKK [2](8) <br/>
+<br/>
+Westfalen-Lippe: <br/>
+-Siemag BKK [2](8) <br/>
 <br/>
 <br/>
-Folgende Krankenkassen bieten nur sehr eingeschränkte homöopathische Leistungen an: <br/>
+Folgende Krankenkassen bieten sehr eingeschränkte homöopathische Leistungen an: <br/>
 <br/>
 Alle Bundesländer<br/>
 -KKH [2] (1) <br/>
@@ -118,6 +141,7 @@ Schleswig-Holstein: <br/>
 (5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5]<br/>
 (6) Homoeopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
+(8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
 <br/>
 <br/>
 Quellen:<br/>
