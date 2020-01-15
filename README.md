@@ -5,8 +5,20 @@ Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbiet
 
 Aktuell bestätigt sind folgende Krankenkassen:
 
--Debeka BKK
 
--AOK Sachsen-Anhalt
+-Debeka BKK       Quelle : Telefonisch Nachgefragt  
 
-Auf folgender Website sind weitere Krankenkasse aufgelistet leider konnten keine bis auf die oben genannten  bestätigt werden. https://buggisch.wordpress.com/2015/04/08/homoeopathie-freie-krankenkasse-gesucht/
+-AOK Sachsen-Anhalt    Quelle : Telefonisch Nachgefragt  
+
+-AOK Bayern         Quelle : Stiftung Warentest (Finanztest Heft 8/2019 Seite 84) 
+
+Folgende Krankenkassen bieten nur sehr eingeschränkte Homöopathie Leistungen an:
+
+- AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)   Quelle : Stiftung Warentest (Finanztest Heft 8/2019 Seite 84) 
+
+Offizielle Quellen:
+https://www.test.de/Krankenkassenvergleich-1801418-0/ 
+
+
+
+
