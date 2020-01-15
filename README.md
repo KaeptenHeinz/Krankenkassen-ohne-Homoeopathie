@@ -86,7 +86,7 @@ Bayern:<br/>
 -BKK Akzo Nobel Bayern [2] (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
 <br/>
-Folgende Krankenkassen bieten nur sehr eingeschränkte Homöopathie Leistungen an: <br/>
+Folgende Krankenkassen bieten nur sehr eingeschränkte homöopathische Leistungen an: <br/>
 <br/>
 Brandenburg: <br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
