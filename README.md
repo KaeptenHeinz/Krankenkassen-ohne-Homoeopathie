@@ -69,11 +69,11 @@ Westfalen-Lippe: <br/>
 -Siemag BKK [2] <br/>
 <br/>
 <br/>
-Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Betrug) Behandlung/Mittel an. 
+Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an. 
 (wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
--KKH [2]  (Keine "Alternativ Medizinische" Behandlung/Mittel)<br/>
+-KKH [2]  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt [4])<br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
 Hamburg: <br/>
@@ -102,7 +102,7 @@ Offizielle Quellen:<br/>
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
 [3]https://krankenkassen.focus.de/kasse/333/Debeka+BKK <br/>
-
+[4]https://www.kkh.de/leistungen/alternativmedizin/heilpraktikerbehandlung
 
 
 
