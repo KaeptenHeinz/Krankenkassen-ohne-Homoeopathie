@@ -10,7 +10,6 @@ Alle Bundesländer: <br/>
 -Salus BKK [2] <br/>
 <br/>
 Baden-Württenberg: <br/>
--BKK Melitta Plus [2]<br/>
 -Siemag BKK [2] <br/>
 <br/>
 Bayern: <br/>
@@ -19,13 +18,11 @@ Bayern: <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Berlin: <br/>
--BKK Melitta Plus [2] <br/>
  <br/>
 Brandenburg:<br/> 
 -Siemag BKK [2] <br/>
  <br/>
 Bremen:<br/>
--BKK Melitta Plus [2] <br/>
 -IKK Nord [2] <br/>
 <br/>
 Hamburg: <br/>
@@ -40,12 +37,10 @@ Mecklenburg-Vorpommern:<br/>
 -IKK Nord [2] <br/>
 <br/>
 Niedersachsen: <br/>
--BKK Melitta Plus [2] <br/>
 -IKK Nord [2] <br/>
 <br/>
 Nordrhein: <br/>
 -AOK Rheinland/Hampurg [2] <br/>
--BKK Melitta Plus [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Rheinland-Pfalz: <br/>
@@ -63,7 +58,6 @@ Schleswig-Holstein: <br/>
 <br/>
 Westfalen-Lippe: <br/>
 -AOK Nordwest [2]  <br/>
--BKK Melitta Plus [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 <br/>
@@ -90,25 +84,35 @@ Alle Bundesländer<br/>
 -KKH [2] (1) <br/>
 -DAK-Gesundheit [2] (Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung biss 100 Euro [5])   <br/>
 <br/>
+Baden-Württenberg: <br/>
+-BKK Melitta Plus (2) [2][6]<br/>
 Brandenburg: <br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
 <br/>
 Berlin:<br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
+-BKK Melitta Plus (2) [2][6] <br/>
 <br/>
+Nordrhein: <br/>
+-BKK Melitta Plus (2) [2] <br/>
+ <br/>
+ Westfalen-Lippe: <br/>
+-BKK Melitta Plus (2) [2] <br/>
+ <br/>
 Mecklenburg-Vorpommern: <br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2]<br/>
 <br/>
 <br/>
 
 (1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4]
+(2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. 
 
-Offizielle Quellen:<br/>
+Quellen:<br/>
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
 [3]https://krankenkassen.focus.de/kasse/333/Debeka+BKK <br/>
 [4]https://www.kkh.de/leistungen/alternativmedizin/heilpraktikerbehandlung
 [5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html
-
+[6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ 
 
 
