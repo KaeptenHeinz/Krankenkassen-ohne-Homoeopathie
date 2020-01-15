@@ -14,7 +14,7 @@ Aktuell bestätigt sind folgende Krankenkassen:
 
 Folgende Krankenkassen bieten nur sehr eingeschränkte Homöopathie Leistungen an:
 
-- AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)   Quelle : Stiftung Warentest (Finanztest Heft 8/2019 Seite 84) 
+-AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)   Quelle : Stiftung Warentest (Finanztest Heft 8/2019 Seite 84) 
 
 Offizielle Quellen:
 https://www.test.de/Krankenkassenvergleich-1801418-0/ 
