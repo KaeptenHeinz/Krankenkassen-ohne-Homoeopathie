@@ -13,8 +13,6 @@ Baden-Württenberg: <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Bayern: <br/>
--AOK Bayern [2] <br/>
--BKK Akzo Nobel Bayern [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Berlin: <br/>
@@ -26,7 +24,7 @@ Bremen:<br/>
 -IKK Nord [2] <br/>
 <br/>
 Hamburg: <br/>
--AOK Rheinland/Hampurg [2] <br/>
+-AOK Rheinland/Hamburg  [2] <br/>
 -IKK Nord [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
@@ -40,7 +38,7 @@ Niedersachsen: <br/>
 -IKK Nord [2] <br/>
 <br/>
 Nordrhein: <br/>
--AOK Rheinland/Hampurg [2] <br/>
+-AOK Rheinland/Hamburg  [2] <br/>
 -Siemag BKK [2] <br/>
 <br/>
 Rheinland-Pfalz: <br/>
@@ -69,13 +67,13 @@ Bundesweit: <br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
 Hamburg: <br/>
--AOK Rheinland/Hampurg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel) <br/>
+-AOK Rheinland/Hamburg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel) <br/>
 <br/>
 Nordrhein: <br/>
--AOK Rheinland/Hampurg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel)<br/>
+-AOK Rheinland/Hamburg [2] (Keine "Alternativ Medizinische" Behandlung/Mittel)<br/>
 <br/>
 Bayern:<br/>
--BKK Akzo Nobel Bayern [2] (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
+-BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
 <br/>
 Folgende Krankenkassen bieten nur sehr eingeschränkte homöopathische Leistungen an: <br/>
@@ -87,12 +85,16 @@ Alle Bundesländer<br/>
 Baden-Württenberg: <br/>
 -BKK Melitta Plus (2) [2][6]<br/>
  <br/>
-Brandenburg: <br/>
--AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
+Bayern: <br/>
+-AOK Bayern [2][7] (3) <br/>
+-BKK Akzo Nobel Bayern [2][8] (4) <br/>
 <br/>
 Berlin:<br/>
 -AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
 -BKK Melitta Plus (2) [2][6] <br/>
+<br/>
+Brandenburg: <br/>
+-AOK Nordost (Nur für Kinder im Centrum für Gesundheit Berlin)  [2] <br/>
 <br/>
 Bremen:<br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
@@ -114,7 +116,11 @@ Mecklenburg-Vorpommern: <br/>
 
 (1) Über ein Bonus Programm welches 180€ für Heilpraktikerleistungen zur verfügung stellt können Alternativmedizinische behandlungen in anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medezin(inklisve Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. 
+(3) Kinder und Schwangere  können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In aussnahme Fällen ist die übernahme von Homöopathischen Mitteln vom Arzt möglich[7].
+(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden[8]. 
 
+<br/>
+<br/>
 Quellen:<br/>
 [1]Telefonisch Nachgefragt <br/>
 [2]https://www.test.de/Krankenkassenvergleich-1801418-0/  Stiftung Warentest (Finanztest Heft 8/2019 Seite 84-88) <br/>
@@ -122,5 +128,6 @@ Quellen:<br/>
 [4]https://www.kkh.de/leistungen/alternativmedizin/heilpraktikerbehandlung
 [5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html
 [6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ 
-
+[7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/
+[8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf
 
