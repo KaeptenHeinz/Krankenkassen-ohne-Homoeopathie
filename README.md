@@ -10,25 +10,23 @@ Alle Bundesländer: <br/>
 -Salus BKK [2] <br/>
 <br/>
 Baden-Württenberg: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
 Bayern: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
-Berlin: <br/>
- <br/>
 Brandenburg:<br/> 
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
  <br/>
 Bremen:<br/>
--IKK Nord [2] <br/>
+-IKK Nord [2]  <br/>
 <br/>
 Hamburg: <br/>
 -IKK Nord [2] <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
 <br/>
 Hessen:<br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
  <br/>
 Mecklenburg-Vorpommern:<br/>
 -IKK Nord [2] <br/>
@@ -37,13 +35,13 @@ Niedersachsen: <br/>
 -IKK Nord [2] <br/>
 <br/>
 Nordrhein: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
 <br/>
 Rheinland-Pfalz: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
  <br/>
 Sachsen: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8)  <br/>
  <br/>
 Sachsen-Anhalt: <br/>
 -AOK Sachsen-Anhalt [1][2] <br/>
@@ -52,7 +50,7 @@ Schleswig-Holstein: <br/>
 -IKK Nord [2] <br/>
 <br/>
 Westfalen-Lippe: <br/>
--Siemag BKK [2] <br/>
+-Siemag BKK [2] (8) <br/>
 <br/>
 <br/>
 Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an. 
