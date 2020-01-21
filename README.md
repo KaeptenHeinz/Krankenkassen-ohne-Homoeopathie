@@ -5,6 +5,8 @@ Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbiet
 
 Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit wesswegen und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte. 
 
+Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich eine Sonderkündigung zu machen[11].
+
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
@@ -163,4 +165,5 @@ Schleswig-Holstein: <br/>
 [8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf<br/>
 [9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
 [10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/
+[11]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
 
