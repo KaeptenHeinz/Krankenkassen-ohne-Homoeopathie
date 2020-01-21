@@ -164,6 +164,6 @@ Schleswig-Holstein: <br/>
 [7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/<br/>
 [8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf<br/>
 [9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
-[10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/
+[10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/<br/>
 [11]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
 
