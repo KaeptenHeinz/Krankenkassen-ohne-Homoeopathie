@@ -3,6 +3,8 @@ Hier stehen die Krankenkassen die keine Homöopathie anbieten <br/>
 
 Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten, wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
 
+Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit wesswegen und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte. 
+
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
