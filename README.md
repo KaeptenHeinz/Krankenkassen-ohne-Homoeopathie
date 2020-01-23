@@ -59,7 +59,6 @@ Westfalen-Lippe: <br/>
 ####  Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
--Debeka BKK  [1][3][12] (9)<br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
