@@ -3,14 +3,13 @@ Hier stehen die Krankenkassen die keine Homöopathie anbieten <br/>
 
 Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten, wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
 
-Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit, wesswegen ihr Wechselt und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte(Egal welche Krankenkasse). 
+Wenn ihr die Krankenkasse wechselt teilt der Krankenkasse wo ihr vorher wart mit, wesswegen ihr Wechselt und der Krankenkasse wohin ihr wechselt auch. Denn nur so kann gezeigt werden das Homöopathie Kritiker eine Marktmacht besitzen. Ich empfehle alles Außer Telefon als Kommunikationsmittel da nach meiner Erfahrung (bei der Recherche) zu meist eine Person den Anruf entgegen nimmt die der Homöopathie eher positiv eingestellt ist und vileicht deswegen dies nicht weiter Kommunizieren könnte(Egal welche Krankenkasse).
 
 Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich bei diesen eine Sonderkündigung zu machen[11].
 
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
--Debeka BKK  [1][3]  <br/>
 -Salus BKK [2] <br/>
 <br/>
 Baden-Württenberg: <br/>
@@ -19,7 +18,7 @@ Baden-Württenberg: <br/>
 Bayern: <br/>
 -Siemag BKK [2] (8) <br/>
 <br/>
-Brandenburg:<br/> 
+Brandenburg:<br/>
 -Siemag BKK [2] (8)  <br/>
  <br/>
 Bremen:<br/>
@@ -60,6 +59,7 @@ Westfalen-Lippe: <br/>
 ####  Folgende Krankenkasse Bieten keine oder nur wenig "Alternativ Medizinische"(aka Keine Echte Medizin) Behandlung/Mittel an.(wenn statt "keine Behandlungen" nur "wenig Behandlungen" wird in Klammer darauf eingegangen)  
 <br/>
 Bundesweit: <br/>
+-Debeka BKK  [1][3][12] (9)<br/>
 -KKH [2] (1)  (Keine "Alternativ Medizinische" Behandlung/Mittel außer über ein Bonus Programm [4])<br/>
 -Salus BKK [2] (300 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 <br/>
@@ -69,7 +69,7 @@ Baden-Württenberg: <br/>
 Bayern:<br/>
 -BKK Akzo Nobel Bayern [2] [8]  (4) (90 Euro bei Osteopathie Behandlung pro Jahr)  <br/>
 -Siemag BKK [2]  (360 Euro bei Osteopathie Behandlung pro Jahr) <br/>
-Brandenburg:<br/> 
+Brandenburg:<br/>
 -Siemag BKK [2] (360 Euro bei Osteopathie Behandlung pro Jahr) <br/>
  <br/>
 Hamburg: <br/>
@@ -138,7 +138,7 @@ Schleswig-Holstein: <br/>
 <br/>
 <br/>
 
-####   Fußnoten 
+####   Fußnoten
 
 <br/>
 (1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
@@ -149,10 +149,11 @@ Schleswig-Holstein: <br/>
 (6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
+(9) Übernahme von 90 % der Kosten für Homöopathie als Ergänzungstarif für ambulante Leistungen<br/>
 
 <br/>
 
-####   Quellen: 
+####   Quellen:
 
 <br/>
 [1]Telefonisch Nachgefragt <br/>
@@ -166,4 +167,4 @@ Schleswig-Holstein: <br/>
 [9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
 [10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/<br/>
 [11]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
-
+[12]https://www.debeka.de/produkte/versichern/krankenversicherung/tarif_eaplus/details/index.html
