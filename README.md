@@ -145,7 +145,7 @@ Schleswig-Holstein: <br/>
 (2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
 (3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
 (4) Seit 2019  entfällt Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
-(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung bis 100 Euro [5] <br/>
+(5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung [5] <br/>
 (6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin(diese Praxis ist seit Moanaten jedoch unbesetzt) [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
