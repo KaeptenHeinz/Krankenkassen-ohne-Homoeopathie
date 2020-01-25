@@ -21,7 +21,10 @@ Bayern: <br/>
 -Siemag BKK [2] (8) <br/>
 -BKK Akzo Nobel Bayern [2][8] (4) <br/>
 <br/>
+Berlin:<br/>
+-AOK Nordost (6)  [2] <br/>
 Brandenburg:<br/>
+-AOK Nordost (6)  [2] <br/>
 -Siemag BKK [2] (8)  <br/>
  <br/>
 Bremen:<br/>
@@ -35,6 +38,7 @@ Hessen:<br/>
 -Siemag BKK [2] (8)  <br/>
  <br/>
 Mecklenburg-Vorpommern:<br/>
+-AOK Nordost (6)  [2]<br/>
 -IKK Nord [2] <br/>
 <br/>
 Niedersachsen: <br/>
@@ -108,20 +112,14 @@ Bayern: <br/>
 -AOK Bayern [2][7] (3) <br/>
 <br/>
 Berlin:<br/>
--AOK Nordost (6)  [2] <br/>
 -BKK Melitta Plus (2) [2][6] <br/>
-<br/>
-Brandenburg: <br/>
--AOK Nordost (6)  [2] <br/>
+
 <br/>
 Bremen:<br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
 <br/>
 Hamburg: <br/>
 -AOK Rheinland/Hamburg  [2][9] <br/>
-<br/>
-Mecklenburg-Vorpommern: <br/>
--AOK Nordost (6)  [2]<br/>
 <br/>
 Niedersachsen: <br/>
 -BKK Melitta Plus (2) [2][6]  <br/>
@@ -147,7 +145,7 @@ Schleswig-Holstein: <br/>
 (3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
 (4) Seit 2019  entfällt Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
 (5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung bis 100 Euro [5] <br/>
-(6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
+(6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin(diese Praxis ist seit Moanaten jedoch unbesetzt) [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
 (9) Übernahme von 90 % der Kosten für Homöopathie als privaten Ergänzungstarif für ambulante Leistungen<br/>
