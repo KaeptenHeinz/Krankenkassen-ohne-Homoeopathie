@@ -46,8 +46,6 @@ Rheinland-Pfalz: <br/>
 Sachsen: <br/>
 -Siemag BKK [2] (8)  <br/>
  <br/>
-Sachsen-Anhalt: <br/>
-
 <br/>
 Schleswig-Holstein: <br/>
 -IKK Nord [2] <br/>
