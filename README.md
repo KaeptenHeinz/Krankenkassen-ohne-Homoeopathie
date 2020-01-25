@@ -47,7 +47,7 @@ Sachsen: <br/>
 -Siemag BKK [2] (8)  <br/>
  <br/>
 Sachsen-Anhalt: <br/>
--AOK Sachsen-Anhalt [1][2] <br/>
+
 <br/>
 Schleswig-Holstein: <br/>
 -IKK Nord [2] <br/>
