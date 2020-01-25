@@ -1,7 +1,7 @@
 # Krankenkassen ohne Homöopathie
 Hier stehen die Krankenkassen die keine Homöopathie anbieten <br/>
 
-EDit: Ich wurde darauf hingewiesen das es bereits eine Liste über Homöopathiefreie Krankenkassen gibt. Diese enthält mehr Daten und detailliertere Informationen: https://www.xn--homopedia-27a.eu/index.php/Artikel:Krankenkassen
+EDIT: Ich wurde darauf hingewiesen das es bereits eine Liste über Homöopathiefreie Krankenkassen gibt. Diese enthält mehr Daten und detailliertere Informationen: https://www.xn--homopedia-27a.eu/index.php/Artikel:Krankenkassen
 
 Hier sollten alle Krankenkassen aufgelistet werden die keine Homöopathie anbieten. Diese Liste ist nicht vollständig! Aus diesem Grund wird um Mitarbeit gebeten, wenn jemand Krankenkassen kennt, die Homöopathie nicht anbieten bitte dies per Pull request oder an die E-mail kaeptenheinz@gmail.com.<br/>
 
