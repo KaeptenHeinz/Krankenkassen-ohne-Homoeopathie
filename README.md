@@ -12,7 +12,7 @@ Weil viele Krankenkassen Ihre Beiträge erhöht haben ist es möglich bei diesen
 #### Aktuell bestätigt sind folgende Krankenkassen:<br/>
 
 Alle Bundesländer: <br/>
-
+-Debeka BKK  [1][3][12] (9)<br/>
 <br/>
 Baden-Württenberg: <br/>
 -Siemag BKK [2] (8) <br/>
@@ -96,7 +96,7 @@ Westfalen-Lippe: <br/>
 
 <br/>
 Alle Bundesländer<br/>
--Debeka BKK  [1][3][12] (9)<br/>
+
 -Salus BKK [2](10) <br/>
 -KKH [2] (1) <br/>
 -DAK-Gesundheit [2] (5)   <br/>
@@ -150,7 +150,7 @@ Schleswig-Holstein: <br/>
 (6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
 (8) 360 Euro bei Osteopathie Behandlung pro Jahr <br/>
-(9) Übernahme von 90 % der Kosten für Homöopathie als Ergänzungstarif für ambulante Leistungen<br/>
+(9) Übernahme von 90 % der Kosten für Homöopathie als privaten Ergänzungstarif für ambulante Leistungen<br/>
 (10) Nur eine wage Angabe zu Homöopathischen Leistungen
 <br/>
 
