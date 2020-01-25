@@ -17,6 +17,7 @@ Baden-Württenberg: <br/>
 <br/>
 Bayern: <br/>
 -Siemag BKK [2] (8) <br/>
+-BKK Akzo Nobel Bayern [2][8] (4) <br/>
 <br/>
 Brandenburg:<br/>
 -Siemag BKK [2] (8)  <br/>
@@ -103,7 +104,6 @@ Baden-Württenberg: <br/>
  <br/>
 Bayern: <br/>
 -AOK Bayern [2][7] (3) <br/>
--BKK Akzo Nobel Bayern [2][8] (4) <br/>
 <br/>
 Berlin:<br/>
 -AOK Nordost (6)  [2] <br/>
@@ -143,7 +143,7 @@ Schleswig-Holstein: <br/>
 (1) Über ein Bonus Programm welches 180€ für Heilpraktiker Leistungen zur Verfügung stellt können Alternativmedizinische Behandlungen in Anspruch genommen werden wie z.B. Homöopathie [4] <br/>
 (2) Alternativ Medizin (inklusive Homöopathie) kann bis zu 100€ pro Kalenderjahr erstattet werden [6]. <br/>
 (3) Kinder und Schwangere können Homöopathische "Arzneimitteln" bis zu 80% max 25 € rückerstattet bekommen. In Ausnahme Fällen ist die Übernahme von Homöopathischen Mitteln vom Arzt möglich [7]. <br/>
-(4)  Homöopathische "Arzneimitteln" die von einem Vertragsarzt mit Zusatzbezeichnung Homöopathie verschrieben wurden können bis zu 100 Euro pro Kalenderjahr erstattet werden [8]. <br/>
+(4)  entfällt Arzneimittel der Homöopathie, Phytotherapie und Anthroposophie bis zu 100  [8]. <br/>
 (5) Nur von Ärzten mit einer homöopathischen Medizinischen Ausbildung bis 100 Euro [5] <br/>
 (6) Homöopathie nur für Kinder im Centrum für Gesundheit Berlin [2]  <br/>
 (7) 80% bis 500 € " Voraussetzung ist, dass diese nicht verschreibungspflichtigen, apothekenpflichtigen Arzneimittel der Homöopathie, Phytotherapie und der Anthroposophie von einem Arzt per Privatrezept verschrieben wurden." [10] <br/>
@@ -162,7 +162,7 @@ Schleswig-Holstein: <br/>
 [5]https://www.dak.de/dak/leistungen/homoeopathie-was-sie-wissen-sollten-2074970.html<br/>
 [6]https://www.bkk-melitta.de/leistungen-vorteile/leistungen-a-z/alternativangebote/naturmedizin/ <br/>
 [7]https://www.aok.de/pk/bayern/inhalt/alternative-heilmethoden-3/<br/>
-[8]https://bkk-akzo.de/fileadmin/user_upload/BKK_Flyer_Homoeopahtie_Februar_2018_Web.pdf<br/>
+[8]https://bkk-akzo.de/?id=13&tx_kesearch_pi1%5Bsword%5D=hom%C3%B6opathie<br/>
 [9]https://www.aok.de/pk/rh/inhalt/alternative-heilmethoden-2/<br/>
 [10]https://www.aok.de/pk/nordwest/inhalt/alternative-heilmethoden/<br/>
 [11]https://www.test.de/Gesetzliche-Krankenversicherung-Alle-Infos-zum-Thema-Krankenkassen-1151006-1152052/
